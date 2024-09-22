@@ -1,7 +1,6 @@
 credentials.json
 token.json
-data/CodePath strategic plan.pdf
-data/SNM Protein Compilation.pdf
+data/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
